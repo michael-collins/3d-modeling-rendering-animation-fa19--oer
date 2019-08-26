@@ -1,0 +1,76 @@
+- title: Course Introduction
+  id: course-introduction-agenda
+  type: agenda
+  posted-date-iso: '2019-01-08T11:15:00'
+  doc: /agendas/course-introduction-agenda.html
+  published: true
+
+- title: Modeling Agenda
+  id: modeling-agenda
+  type: agenda
+  posted-date-iso: '2019-01-10T11:15:00'
+  doc: /agendas/modeling-agenda.html
+  published: true
+
+- title: Texturing Agenda
+  id: texturing-agenda
+  type: agenda
+  posted-date-iso: '2019-01-15T11:15:00'
+  doc: /agendas/texturing-agenda.html
+  published: true
+
+- title: Advanced Texturing Agenda #Change this to PBR Agenda
+  id: advanced-texturing-agenda
+  type: agenda
+  posted-date-iso: '2019-01-17T11:15:00'
+  doc: /agendas/advanced-texturing-agenda.html
+  published: true
+
+- title: NPR Agenda
+  id: npr-agenda
+  type: agenda
+  posted-date-iso: '2019-01-29T11:15:00'
+  doc: /agendas/npr-agenda.html
+  published: true
+
+- title: Lighting Rendering Agenda
+  id: lighting-rendering-agenda
+  type: agenda
+  posted-date-iso: '2018-01-22T11:15:00'
+  doc: /agendas/lighting-rendering-agenda.html
+  published: false
+
+- title: Realtime NPR Agenda
+  id: realtime-npr-agenda
+  type: agenda
+  posted-date-iso: '2018-01-29T11:15:00'
+  doc: /agendas/realtime-npr-agenda.html
+  published: false
+
+- title: Animation Agenda
+  id: animation-agenda
+  type: agenda
+  posted-date-iso: '2019-03-19T11:15:00'
+  doc: /agendas/animation-agenda.html
+  published: true
+
+- title: Rigging Agenda
+  id: rigging-agenda
+  type: agenda
+  posted-date-iso: '2019-03-21T11:15:00'
+  doc: /agendas/rigging-agenda.html
+  published: true
+  
+- title: Texture Animation Agenda
+  id: texture-animation-agenda
+  type: agenda
+  posted-date-iso: '2019-08-28T11:15:00'
+  doc: /agendas/texture-animation-agenda.html
+  published: false
+
+- title: Blender Rendering and Exporting Tutorials
+  id: blender-rendering-and-exporting-tutorials
+  type: agenda
+  posted-date-iso: '2019-11-20T11:15:00'
+  doc: /agendas/blender-rendering-and-exporting-tutorials.html
+  published: false

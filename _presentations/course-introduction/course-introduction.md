@@ -7,8 +7,8 @@ transition: slide
 comments: true
 published: true
 excerpt: Introduction to the course. We will discuss the syllabus, 3D software interface, and introduce the first assignment.
-course-start-time: 11:15am
-syllabus-url: https://michael-collins.github.io/3d-modeling-rendering-animation-sp19--oer/syllabus/art314-spring2019.html
+course-start-time: 2:30pm
+syllabus-url: https://michael-collins.github.io/3d-modeling-rendering-animation-fa19--oer/syllabus/art314-fall2019.html
 ---
 <section data-markdown>
 ##Introduction to ART314: 3D Modeling, Rendering, and Animation
@@ -21,7 +21,7 @@ Tell us about yourself
 1. Name
 2. Major
 3. Why did you enroll in this class?
-4. Name something cool you did this summer (travel, art, sky diving, anything???)
+4. Name something cool you did this summer/winter (travel, art, sky diving, anything???)
 </section>
 <section data-markdown>
 ##Welcome
@@ -33,7 +33,7 @@ Tell us about yourself
 ##What is this class about?
 
 1. This is an __**art**__ class
-2. We also happen to use indistry standard design tools.
+2. We use sophisticated digital design tools.
 
 >Theme prompts require that you will take novel and creative approaches to visual and conceptual investigations. Your ability to be a creative problem solver is more important than your ability to model or texture.
 

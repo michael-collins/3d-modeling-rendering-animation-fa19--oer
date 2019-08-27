@@ -2,7 +2,7 @@
   id: modeling-intro
   type: exercise
   # posted-date: 1/08/2019
-  posted-date-iso: '2019-01-08T11:15:00'
+  posted-date-iso: '2019-08-27T14:30:00'
   # due-date: 11:15pm on 1/15/2019
   due-date-iso: '2019-01-15T11:15:00'
   dropbox-url: https://psu.instructure.com/courses/1965644/assignments/10689255
@@ -18,7 +18,7 @@
   due-date-iso: '2019-01-22T11:15:00'
   dropbox-url: https://psu.instructure.com/courses/1965644/assignments/10689256
   doc: /assignments/texturing.html
-  published: true
+  published: false
 
 - title: Exercise 3
   id: advanced-texturing
@@ -29,7 +29,7 @@
   due-date-iso: '2019-01-29T11:15:00'
   dropbox-url: https://psu.instructure.com/courses/1965644/assignments/10689257
   doc: /assignments/advanced-texturing.html
-  published: true
+  published: false
 
 - title: Exercise 4
   id: npr-modeling-surfaces-rendering
@@ -40,7 +40,7 @@
   due-date-iso: '2019-02-07T11:15:00'
   dropbox-url: https://psu.instructure.com/courses/1965644/assignments/10689258
   doc: /assignments/npr-modeling-surfaces-rendering.html
-  published: true
+  published: false
 
 - title: Exercise 5
   id: animation-intro
@@ -51,7 +51,7 @@
   due-date-iso: '2019-03-26T11:15:00'
   dropbox-url: https://psu.instructure.com/courses/1965644/assignments/10689259
   doc: /assignments/animation-intro.html
-  published: true
+  published: false
 
 - title: Exercise 6
   id: rigging
@@ -62,7 +62,7 @@
   due-date-iso: '2019-04-01T11:15:00'
   dropbox-url: https://psu.instructure.com/courses/1965644/assignments/10689260
   doc: /assignments/rigging.html
-  published: true
+  published: false
 
 - title: Exercise 7
   id: animated-textures
@@ -93,7 +93,7 @@
   posted-date-iso: '2019-02-05T11:15:00'
   dropbox-url: https://psu.instructure.com/courses/1933733/assignments/10335158
   doc: /assignments/project-speculative-design.html
-  published: true
+  published: false
   milestones:
     - concepts:
       due-date: 11:15pm on February 07, 2019
@@ -143,7 +143,7 @@
   posted-date-iso: '2019-03-21T11:15:00'
   dropbox-url: https://psu.instructure.com/courses/1933733/assignments/10335159
   doc: /assignments/animation-project.html
-  published: true
+  published: false
   milestones:
     - concepts:
       due-date: 11:15am on April 2, 2019

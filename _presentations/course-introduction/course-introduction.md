@@ -9,14 +9,15 @@ published: true
 excerpt: Introduction to the course. We will discuss the syllabus, 3D software interface, and introduce the first assignment.
 course-start-time: 2:30pm
 syllabus-url: https://michael-collins.github.io/3d-modeling-rendering-animation-fa19--oer/syllabus/art314-fall2019.html
+course-site: https://michael-collins.github.io/3d-modeling-rendering-animation-fa19--oer
 ---
 <section data-markdown>
-##Introduction to ART314: 3D Modeling, Rendering, and Animation
+## Introduction to ART314: 3D Modeling, Rendering, and Animation
 **Instructor:** [Michael Collins](https://sova.psu.edu/profile/michaelcollins) | msc227@psu.edu | @_mike_collins
 
 </section>
 <section data-markdown>
-##Introductions
+## Introductions
 Tell us about yourself
 1. Name
 2. Major
@@ -24,13 +25,13 @@ Tell us about yourself
 4. Name something cool you did this summer/winter (travel, art, sky diving, anything???)
 </section>
 <section data-markdown>
-##Welcome
-###Warning:
+## Welcome
+### Warning:
 
 >**We have a ton of material to cover this semester.** To do well in this class, you have to work really hard, so make sure you are prepared to commit to a rigorous work ethic! You will lose sleep this semester, but it will be fun!
 </section>
 <section data-markdown>
-##What is this class about?
+## What is this class about?
 
 1. This is an __**art**__ class
 2. We use sophisticated digital design tools.
@@ -47,7 +48,7 @@ Tell us about yourself
 
 </section>
 <section data-markdown>
-##Expectations _part 1_
+## Expectations _part 1_
 - Class starts at {{ page.course-start-time }}, be here 5 minutes early.
 - Attendance is mandatory
 - Assignment deadlines are firm unless we decide to change them ahead of time
@@ -55,14 +56,14 @@ Tell us about yourself
 
 </section>
 <section data-markdown>
-##Expectations _part 2_
+## Expectations _part 2_
 - Be a self learner, but don’t be afraid to ask questions
   - 15 Miniute rule: Try to answer your own question. If it's taking more than 15 minutes, ask for help!
 - Please be respectful to your peers who are working diligently by not distracting them with cat videos or other sources of entertainment.
 - Contribute during critiques
 </section>
 <section data-markdown>
-##[Course Website](http://michaelcollins.xyz/3d-modeling-rendering-animation-fa18--oer/)
+##[Course Website]({{ page.course-site }})
 
 If you have any recommendations, please post on the site on the dicsussion page, or if it's in reference to a specific exercise, you can post right on the exercise. When you find something useful to the class, post it on the Discussion page!
 
@@ -76,7 +77,7 @@ I understand that it can be hard to make it to every single class. But please sh
 
 </section>
 <section data-markdown>
-##Technology sucks! _part 1_
+## Technology sucks! _part 1_
 - Rule #1: Never trust technology
   - Plan Ahead by doing the following:
   - Turn on Autosave
@@ -85,7 +86,7 @@ I understand that it can be hard to make it to every single class. But please sh
 
 </section>
 <section data-markdown>
-##Technology sucks! _part 2_
+## Technology sucks! _part 2_
   - The computer lab computers get wiped every few days
   - Allow enough time to render your project twice because:
     - You will make mistakes
@@ -99,59 +100,50 @@ I understand that it can be hard to make it to every single class. But please sh
 <strong>This student didn't save iteratively...</strong>
 </section>
 <section data-markdown>
-##More Technology
+## More Technology
 
 Autodesk Student Software free! Register: [http://students.autodesk.com](http://students.autodesk.com)
 
-</section>
-<section data-markdown>
-##Learning Resources
-
-[Lynda.com](http://www.lynda.com) (For PSU students - [lynda.psu.edu](https://lynda.psu.edu))
+[Blender.org](https://www.blender.org/)
 
 </section>
 <section data-markdown>
-##Textbooks
+## Learning Resources
 
-Blender 3D: Large list on Amazon: [https://www.amazon.com/s/ref=nb_sb_ss_i_2_7?url=search-alias%3Dstripbooks&field-keywords=blender+3d&sprefix=blender%2Cstripbooks%2C146&crid=2RR9KCEQDFNG&rh=n%3A283155%2Ck%3Ablender+3d]
+[LinkedIn Learning](https://www.linkedin.com/learning/)
 
-Autodesk Maya 2018 Basics Guide _ISBN-10: 1630571121_
-Autodesk Maya 2018: A Comprehensive Guide _ISBN-10: 1942689977_
+AND
 
-</section>
-<section data-markdown>
-##Other Learning Resources
+The Internet!
 
-The entire Internet.
-
->There is a lot of knowledge and useful information on the Internet, like how to make things glow in Maya, or how to [fold a shirt like a ninja](https://www.youtube.com/watch?v=gK1nGpvaHno)!
+>There is a lot of knowledge and useful information on the Internet, like how to make particles in Blender, or how to [fold a shirt like a ninja](https://www.youtube.com/watch?v=gK1nGpvaHno)!
 
 </section>
 <section data-markdown>
-##How is 3D used for to make animations?
+## How is 3D used for to make animations?
 
 [Cirkus Animation ABC](http://www.youtube.com/watch?v=O-qLBXIX2Mk)
 
 </section>
 <section data-markdown>
-###Art Studios
+### Art Studios
 [Zeitguised](http://www.zeitguised.com/)
 
-###Art Installations
+### Art Installations
 
 Matt Pyke: [Video 1](http://vimeo.com/24836368) - [Video 2](http://vimeo.com/24832819)
 
-###Illustration and Concept Design:
+### Illustration and Concept Design:
 
 [Fan Zhang](http://features.cgsociety.org/newgallerycrits/g97/266497/266497_1313588621_large.jpg) - [Mikael Engzell](http://features.cgsociety.org/newgallerycrits/g40/422540/422540_1323953738_large.jpg) - [Mariano Steiner](http://features.cgsociety.org/newgallerycrits/g25/313625/313625_1275961395_large.jpg) - [Laurent Pierlot](http://features.cgsociety.org/newgallerycrits/g96/30696/30696_1351660661_large.jpg) - [Toni Bratincevic](http://features.cgsociety.org/newgallerycrits/g56/93456/93456_1345698939_large.jpg)
 
 </section>
 <section data-markdown>
-###Graphic/Motion Design
+### Graphic/Motion Design
 
 Mike Rigley: [Network](https://vimeo.com/34750078)
 
-###Short Films
+### Short Films
 
 Alex Roman - [The Third & The Seventh](https://vimeo.com/24335209)
 
@@ -159,12 +151,12 @@ Others [on Vimeo](https://vimeo.com/search/sort:popularity?q=3D+Channel)
 
 </section>
 <section data-markdown>
-###Movie VFX
+### Movie VFX
 Johnny Likens - [IRON MAN 3 : HUD + GFX PROCESS REEL](https://vimeo.com/66944464)
 
 </section>
 <section data-markdown>
-##Get Involved
+## Get Involved
 
 [Penn State Digital Media Group](https://www.facebook.com/PSUDigitalMedia/)
 
@@ -172,10 +164,10 @@ Johnny Likens - [IRON MAN 3 : HUD + GFX PROCESS REEL](https://vimeo.com/66944464
 
 </section>
 <section data-markdown>
-##Questions?
+## Questions?
 </section>
 <section data-markdown>
-##Up Next
+## Up Next
 
 1. [Syllabus and Schedule]({{page.syllabus-url}})
 2. Do we have time for a demo?

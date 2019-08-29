@@ -3,4 +3,4 @@ layout: default
 title: About
 comments: false
 ---
-This project serves as an OER repository experiement and is under active development.
+This OER course was created by Michael Collins and is active development and revision.

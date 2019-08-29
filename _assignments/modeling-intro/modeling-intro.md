@@ -15,19 +15,20 @@ In this exercise, you will gain basic understanding of modeling fundamentals. Th
 
 - Blender Reference Sheet: [Blender Hotkeys](http://download.blender.org/documentation/BlenderHotkeyReference.pdf)
 - Youtube - Modeling advice: [Good Edge Flow](https://www.youtube.com/watch?v=Lip59doQQRk)
-- Lynda - Watch up to Chapter 3: [Blender Essentials](https://www.lynda.com/Blender-tutorials/Blender-Essential-Training/87088-2.html?org=psu.edu)
+- LinkedIn Learning - Watch up to Chapter 2: [Introduction to Blender 2.8 for Beginners](https://www.linkedin.com/learning/blender-2-8-essential-training-2/introducing-blender-2-8-for-beginners)
 - Lynda - Watch Chapter 3 - Creating furniture videos 1 and 2: 
-[Modeling the Eames Chair](https://www.lynda.com/Blender-tutorials/Beginning-Eames-chair/360620/384027-4.html?org=psu.edu)
+[Modeling the Eames Chair](https://www.linkedin.com/learning/creating-an-interior-scene-with-blender/beginning-the-eames-chair)
 - Modeling reference: [Speed modeling a chair](https://www.youtube.com/watch?v=xvpcchM9AfA)
 
 **Level 2: Intermediate Students**
 
-- Lynda - Watch up to Chapter 6: [Maya Essentials](https://www.lynda.com/Maya-tutorials/Maya-2018-Essential-Training/604210-2.html?org=psu.edu)
-- [Lynda.com - Advanced Modeling](https://www.lynda.com/Maya-tutorials/Maya-Advanced-Modeling/622047-2.html?org=psu.edu)
+See [Blender resources]({{site.baseurl}}/blender/) for intermediate to advanced modeling tutorials matching your skill set.
+
 
 **Level 3: Experienced Students**
 
-  - [Character scuptling: Lesson 1-4](https://www.lynda.com/Blender-tutorials/Sculpting-fine-details/135362/146888-4.html?org=psu.edu) 
+- [Introduction to Sculpting in Blender 2.8 - Sculpting Essentials](https://www.youtube.com/watch?v=L3XtAFUWNuk) 
+- [Introduction to sculpting in Blender 2.8](https://www.youtube.com/watch?v=A-Wq8K8icpQ) 
 
 **Reference Websites**
 
@@ -85,7 +86,7 @@ Choose a either level 1, level 2, or level 3 to complete based on your prior exp
 
 1. Watch the tutorials related to sculpting.
 2. Use the techniques learned to create a detailed sculpt of a **real-life aquatic creature**.
-3. Your sculpted model should be of similar refinement to the example model at the end of lesson 4.
+3. Your sculpted model should be finished and refined before moving onto the next exercise.
 5. Save your blend file in a project folder **_{{ page.submission-id }}.blend_**.
 6. Compress the folder once you’ve completed the tutorial and rename it **_{{ page.submission-id }}-L3.zip._**
 7. Upload the .zip file to the assignment dropbox.

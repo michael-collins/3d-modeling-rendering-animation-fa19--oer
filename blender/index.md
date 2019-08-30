@@ -33,14 +33,19 @@ Quick and humerous tutorials that are sometimes only a minute long. For more adv
 [Introduction to Blender 2.8 for Beginners](https://www.linkedin.com/learning/blender-2-8-essential-training-2/introducing-blender-2-8-for-beginners)  
 Very general introduction videos to learn Blender basics.
 
-## Add-ons and Plugins
+## Add-ons, plugins, and textures
 
 ### Materials
 
-[3D Wolf PBR Materials Library V3.4](https://3d-wolf.com/products/materials.html)
+- [3D Wolf PBR Materials Library V3.4](https://3d-wolf.com/products/materials.html)
+
 
 ### Recommended Add-on Lists
 
 - [https://blender-addons.org/](https://blender-addons.org/)
 - [CG Cookie](https://cgcookie.com/articles/the-top-10-modeling-addons-for-blender-2-8)
 - [Curtis Holt](https://www.youtube.com/watch?v=aTDF94CU5wc)
+
+### Textures
+
+- [HDRI environment textures](https://hdrihaven.com/)

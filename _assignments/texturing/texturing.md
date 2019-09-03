@@ -5,7 +5,7 @@ layout: exercise
 submission-id: texture-YOURNAME
 asset-path: /assets/exercise-images
 exercise: exercise-2
-project-file: /assets/exercise-downloads/airline-chair-1.blend
+project-file: /assets/exercise-downloads/airline-chair-2-8.blend
 ---
 
 In this exercise, you will continue 3D modeling and begin texturing. There are different tutorials and exercise submission requirements for three experience levels. Choose the experience level that matches your own.
@@ -16,31 +16,31 @@ In this exercise, you will continue 3D modeling and begin texturing. There are d
 
 **Level 1: Novice Students**
 
-- Blender Reference Sheet: [Blender Hotkeys](http://download.blender.org/documentation/BlenderHotkeyReference.pdf)
-- Lynda - Watch Chapters 1- 4 and 7: [Blender Essentials](https://www.lynda.com/Blender-tutorials/Blender-Essential-Training/87088-2.html?org=psu.edu)
-- Lynda - Watch Chapters 1- 4: 
-[Texturing](https://www.lynda.com/Blender-tutorials/Blender-UV-Mapping/169107-2.html?org=psu.edu)
-
-Reference:
-
-- Airline Chair: [Download]({{ site.baseurl }}{{page.project-file}})
-- Modeling reference: [Speed modeling a chair](https://www.youtube.com/watch?v=xvpcchM9AfA)
+- Blender Foundation - Videos 16-20: [Blender Fundamentals 2.8](https://www.youtube.com/playlist?list=PLa1F2ddGya_-UvuAqHAksYnB0qL9yWDO6)
+- LinkedIn Learning - Chapter 4: 
+[Textures and shading](https://www.linkedin.com/learning/blender-2-8-essential-training-2/introducing-blender-2-8-for-beginners)
+- **Chair Modeling Reference:**
+  - Airline Chair: [Download]({{ site.baseurl }}{{page.project-file}})
+  - Modeling reference: [Speed modeling a chair](https://www.youtube.com/watch?v=xvpcchM9AfA)
 
 ---
 
 **Level 2: Intermediate Students**
 
-- Lynda - Watch up to Chapter 4 and 7: [Blender Essentials](https://www.lynda.com/Blender-tutorials/Blender-Essential-Training/87088-2.html?org=psu.edu)
-- Lynda - Watch Chapter 1 - 4: 
-[Texturing](https://www.lynda.com/Blender-tutorials/Blender-UV-Mapping/169107-2.html?org=psu.edu)
+- Blender Foundation - Videos 16-20: [Blender Fundamentals 2.8](https://www.youtube.com/playlist?list=PLa1F2ddGya_-UvuAqHAksYnB0qL9yWDO6)
+- Lynda - Chapter 4: 
+[Textures and shading](https://www.linkedin.com/learning/blender-2-8-essential-training-2/introducing-blender-2-8-for-beginners)
+- Jayanam - [Blender 2.8 PBR Texturing for Beginners](https://www.youtube.com/watch?v=XI-pZshRp8g)
+- [How To Setup PBR and Displacement in EEVEE AND Cycles Blender 2.8](https://www.youtube.com/watch?v=UkU0-QeWUcU)
 
 ---
 
 **Level 3: Experienced Students**
 
-  - [Character scuptling: Lesson 5](https://www.lynda.com/Blender-tutorials/Sculpting-fine-details/135362/146888-4.html?org=psu.edu)
-  - [Retopologize](https://www.youtube.com/watch?v=k9NAv_q_wfU)
-  - [Normal Maps and Nodes](https://www.youtube.com/watch?v=gzZqFrFlcEE)
+  - Flipped Normals - [Introduction to Sculpting in Blender 2.8 - Sculpting Essentials](https://www.youtube.com/watch?v=A-Wq8K8icpQ&list=PLBX-X8mPyxIqV8Uto03OdvfnGUHCu9Hxz&index=2)
+  - [Blender 2.8 - How to bake textures - Tutorial](https://www.youtube.com/watch?v=2ClzsuExtCo)
+  - [Retopology for Beginners in Blender 2.8 - Retopo the Correct Way](https://www.youtube.com/watch?v=CuQzPDs99yM&list=PLBX-X8mPyxIqV8Uto03OdvfnGUHCu9Hxz&index=1)
+  - [How To Setup PBR and Displacement in EEVEE AND Cycles Blender 2.8](https://www.youtube.com/watch?v=UkU0-QeWUcU)
 
 ---
 
@@ -62,8 +62,8 @@ Choose a either level 1, level 2, or level 3 to complete based on your prior exp
 4. Unwrap the chair's parts' UVs using the various methods and tools described in the tutorials.
 5. Export a UV map for each part and save it in the project folder as **_uv_1.jpg_**, **_uv_2.jpg_**, etc.
 6. Import the UV maps into Photoshop and create textures to match the Airline Chair as closely as possible.
-7. Save the textures as _**arm_color.jpg**_, _**cushion1_color.jpg**_, etc. in the project folder. Name the files in an organized and logical way.
-8. In Blender or Maya, set up the chair's textures so they are visible on the model.
+7. Save the textures as _**arm_color.jpg**_, _**cushion1_color.jpg**_, etc. in the project folder. Name the files in an organized in a logical way.
+8. In Blender, set up the chair's textures so they are visible on the model.
 9. Save the 3D scene file as **_{{ page.submission-id }}_** in the project folder.
 10. Compress the project folder once you’ve completed the tutorial and rename it **_{{ page.submission-id }}-L1.zip._**
 11. Upload the .zip file to the assignment dropbox.
@@ -86,7 +86,7 @@ Choose a either level 1, level 2, or level 3 to complete based on your prior exp
 1. Duplicate your project folder from the previous exercise and rename it to **_{{ page.submission-id }}-L2_**.
 2. For each of the three objects you modeled in the last exercise:
   a. Unwrap the object’s UVs
-  b. Export a UV snapshot
+  b. Export a UV snapshot (UV wireframes)
   c. Create a color texture in Photoshop (1024px by 1024px).
 3. Save each of the three scenes in the scenes folder as:  
   **_obj1-{{ page.submission-id }}_**  

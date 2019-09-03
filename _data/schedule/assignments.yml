@@ -13,12 +13,12 @@
   id: texturing
   type: exercise
   # posted-date: 1/15/2019
-  posted-date-iso: '2019-01-15T11:15:00'
+  posted-date-iso: '2019-09-03T14:30:00'
   # 11:15pm on 1/22/2019
-  due-date-iso: '2019-01-22T11:15:00'
+  due-date-iso: '2019-09-10T14:30:00'
   dropbox-url: https://psu.instructure.com/courses/1995936/assignments/11180353
   doc: /assignments/texturing.html
-  published: false
+  published: true
 
 - title: Exercise 3
   id: advanced-texturing

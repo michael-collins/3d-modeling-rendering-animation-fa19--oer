@@ -9,12 +9,15 @@ excerpt: Introduction to texturing.
 ### Agenda
 
 1. **Video Screening**
-   - "[The Third & The Seventh](https://vimeo.com/7809605)" by Alex Roman, 2009
-   - Lighting Technical Director: https://vimeo.com/200015451
-   - Student Reel, Cindy Jang: https://vimeo.com/52911102
+   - [Amino Assets](https://vimeo.com/2826822) by ZEITGUISED
+   - [Bee 3D Animated Short](https://vimeo.com/44228708)
+   - Lighting Technical Director: [Riccardo Zoccarato](https://vimeo.com/200015451)
+   - Student Reel: [Cindy Jang](https://vimeo.com/52911102)
+   - [Classroom scene - making of](https://vimeo.com/12888604)
+   - [Oblivion GFX montage](https://vimeo.com/64377100)
+   - [Substance painter trailer](https://youtu.be/ZwotHwt-YWk?t=26)
 2. **Terminology**
    -  [UV Mapping](https://en.wikipedia.org/wiki/UV_mapping)
-   -  [Normals](https://docs.blender.org/manual/en/latest/modeling/meshes/mesh_display.html)
    -  Non-manifold Geometry
    -  Unfolding tools
    -  UV Shell
@@ -23,5 +26,5 @@ excerpt: Introduction to texturing.
    - Reset scale to 1. Use '**Apply**' in Blender.  (Translation and rotation is also sometimes needed)
    - Check mesh for problems
 4. **UV Unwrapping Tips**
-   - [https://chocofur.com/page/uv-mapping-tutorial-in-blender-2-79](https://chocofur.com/page/uv-mapping-tutorial-in-blender-2-79)
+   - [UV Unwrapping - Blender 2.80 Fundamentals](https://www.youtube.com/watch?v=Y7M-B6xnaEM)
 5. **Texturing Demo**

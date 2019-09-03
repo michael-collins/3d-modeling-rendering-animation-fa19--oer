@@ -19,7 +19,7 @@
      {% comment %}
      ### Sort an array of all agenda, assignments, and presentations
      {% endcomment %}
-    {% assign sorted-items = all_items | sort | where: "published", true | where: "posted-date-iso", !="" %}
+    {% assign sorted-items = all_items | sort: 'posted-date-iso' | reverse | where: "published", true %}
     {% for item in sorted-items %}
         {% capture date %}{{ item.posted-date-iso | date: '%m%d%Y' }}{% endcapture %}
         {% assign itemDate = item.posted-date-iso | date: "%m%d%Y" %}

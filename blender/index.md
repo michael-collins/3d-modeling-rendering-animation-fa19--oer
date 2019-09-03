@@ -35,17 +35,24 @@ Very general introduction videos to learn Blender basics.
 
 ## Add-ons, plugins, and textures
 
-### Materials
+### Textures and texture packs
+
+- [CC0 Textures](https://cc0textures.com/)
+- [FreePBR.com](https://freepbr.com)
+- [CG Bookcase](https://www.cgbookcase.com/)
+- [3D Textures](https://3dtextures.me/tag/pbr/)
+- [Textures.com](https://www.textures.com/)
+
+### Lighting textures
+
+- [HDRI environment textures](https://hdrihaven.com/)
+
+### Materials add-on
 
 - [3D Wolf PBR Materials Library V3.4](https://3d-wolf.com/products/materials.html)
-
 
 ### Recommended Add-on Lists
 
 - [https://blender-addons.org/](https://blender-addons.org/)
 - [CG Cookie](https://cgcookie.com/articles/the-top-10-modeling-addons-for-blender-2-8)
 - [Curtis Holt](https://www.youtube.com/watch?v=aTDF94CU5wc)
-
-### Textures
-
-- [HDRI environment textures](https://hdrihaven.com/)

@@ -22,6 +22,7 @@ excerpt: Techniques for advanced texturing.
 3. **Lighting and Rendering Demo**
   - [PBR Materials](https://www.youtube.com/watch?v=FRNCp9GueUs) by Joe Foresman
 5. **Resources**
+  - [PBR Texture Painting in Blender](https://www.youtube.com/watch?v=svzKoq3vew0) by Jayanam
   - [PBR workflow](https://www.youtube.com/watch?v=aH6XPsEmozk)
   - [BlenderNPR.org](http://blendernpr.org/)
   - Blender Add-0n - [PBR Materials](https://www.3d-wolf.com/products/materials.html)

@@ -76,16 +76,16 @@
 - title: NPR Agenda
   id: npr-agenda
   type: agenda
-  posted-date-iso: '2019-01-29T11:15:00'
+  posted-date-iso: '2019-09-10T2:30:00'
   doc: /agendas/npr-agenda.html
   published: false
 
 - title: Lighting Rendering Agenda
   id: lighting-rendering-agenda
   type: agenda
-  posted-date-iso: '2018-01-22T11:15:00'
+  posted-date-iso: '2019-09-10T2:30:00'
   doc: /agendas/lighting-rendering-agenda.html
-  published: false
+  published: true
 
 - title: Realtime NPR Agenda
   id: realtime-npr-agenda

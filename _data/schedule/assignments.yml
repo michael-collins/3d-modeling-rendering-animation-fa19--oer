@@ -24,18 +24,18 @@
   id: advanced-texturing
   type: exercise
   # posted-date: 1/22/2019
-  posted-date-iso: '2019-01-22T11:15:00'
+  posted-date-iso: '2019-09-10T2:30:00'
   # 11:15pm on 1/29/2019
-  due-date-iso: '2019-01-29T11:15:00'
+  due-date-iso: '2019-09-17T2:30:00'
   dropbox-url: https://psu.instructure.com/courses/1995936/assignments/11180354
   doc: /assignments/advanced-texturing.html
-  published: false
+  published: true
 
 - title: Exercise 4
   id: npr-modeling-surfaces-rendering
   type: exercise
   # posted-date: 11:15pm on 1/29/2019
-  posted-date-iso: '2019-01-29T11:15:00'
+  posted-date-iso: '2019-09-29T11:15:00'
   # due-date: 11:15pm on 2/05/2019
   due-date-iso: '2019-02-07T11:15:00'
   dropbox-url: https://psu.instructure.com/courses/1995936/assignments/11180355

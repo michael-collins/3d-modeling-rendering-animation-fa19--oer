@@ -11,7 +11,8 @@ In this exercise, you will use a PBR workflow to add realistic textures, set up 
 
 ## Learning Resources
 
----
+***
+
 **Level 1 & 2: Beginner and Intermediate Students**
 
 Physically based materials:
@@ -30,28 +31,32 @@ Example texture packs:
 
 Blender:
 
+- Blender Foundation - Videos 21-27: [Blender Fundamentals 2.8](https://www.youtube.com/playlist?list=PLa1F2ddGya_-UvuAqHAksYnB0qL9yWDO6)
+- [Grant Abbitt - Part 6 Rendering and Atmosphere](https://www.youtube.com/watch?v=g8683RF1COo)
 - Blender Reference Sheet: [Blender Hotkeys](http://download.blender.org/documentation/BlenderHotkeyReference.pdf)
-- Lynda - Watch Chapters 5-9: [Blender Essentials](https://www.lynda.com/Blender-tutorials/Blender-Essential-Training/87088-2.html?org=psu.edu)
+- Lynda - Watch Chapters 4 and 7: [Blender Essentials](https://www.linkedin.com/learning/blender-2-8-essential-training-2)
 - [Setting up the redner camera in Blender](https://www.youtube.com/watch?v=SG6yOoq7FKI)
 - [PBR Materials Demo](https://www.youtube.com/watch?v=FRNCp9GueUs) By Joe Foresman
 
----
+***
 
 **Level 3: Experienced Students**
 
-- [Character scuptling](https://www.lynda.com/Blender-tutorials/Sculpting-fine-details/135362/146888-4.html?org=psu.edu)
-- [Retopologize](https://www.youtube.com/watch?v=k9NAv_q_wfU)
-- [Normal Maps and Nodes](https://www.youtube.com/watch?v=gzZqFrFlcEE)
+- Flipped Normals - [Introduction to Sculpting in Blender 2.8 - Sculpting Essentials](https://www.youtube.com/watch?v=A-Wq8K8icpQ&list=PLBX-X8mPyxIqV8Uto03OdvfnGUHCu9Hxz&index=2)
+- [Blender 2.8 - How to bake textures - Tutorial](https://www.youtube.com/watch?v=2ClzsuExtCo)
+- [Retopology for Beginners in Blender 2.8 - Retopo the Correct Way](https://www.youtube.com/watch?v=CuQzPDs99yM&list=PLBX-X8mPyxIqV8Uto03OdvfnGUHCu9Hxz&index=1)
+- [How To Setup PBR and Displacement in EEVEE AND Cycles Blender 2.8](https://www.youtube.com/watch?v=UkU0-QeWUcU)
 
----
+
+***
 
 ## Steps to Completion
 
 Choose a either level 1, level 2, or level 3 to complete based on your prior experience with 3D tools. If you are a novice, choose Level 1. If you have some experience, choose Level 2. If you are very experienced with 3D tools, choose Level 3.
 
-[Level 1 and 2 Steps](#level-1-2) | [Level 3 Steps](#level-3)
+[Level 1 and 2 Steps](#level-1) | [Level 2 Steps](#level-2) | [Level 3 Steps](#level-3)
 
-### <a name="level-1-2"></a>Level 1 and 2:
+### <a name="level-1"></a>Level 1:
 
 1. Create a polygonal model of a lamp against a wall using Principled BSDF shaders.
   - The object should have a bulb with an emission (emissive) material and act as a light source
@@ -59,13 +64,31 @@ Choose a either level 1, level 2, or level 3 to complete based on your prior exp
   - There should be a background environment HDR image.
   - There should be a floor and one more walls of a room visible in the render, use any material you'd like for these. The lamp should not be "floating in space."
 2. Unwrap the UVs for each object if you intend to use textures. Ensure that your materials are mapping with your object's UVs.
-3. Adjust the camera's framing and focal length to create a good composition. Explore the camera presets. See video tutorial linked in resources.
+3. Select render camera. In camera settings, adjust the camera's framing and focal length to create a good composition. Explore the camera presets. See video tutorial linked in resources.
+4. Check the "Lock camera to view" to frame composition with render camera.
 4. In Blender, **render** and image using Cycles renderer with the following settings:
   - Image size: X=1920px, Y=1080px
 5. In the render window, Image --> Save As **_{{ page.submission-id }}_**.png in the project folder.
 9. Save the blend file as **_{{ page.submission-id }}.blend_** in the project folder.
 10. Compress the project folder once you’ve completed the tutorial and rename it **_{{ page.submission-id }}.zip._**
-11. Upload the .zip file to the [submission dropbox]({{ site.assignments.[page.exercise].dropbox-url }})
+11. Upload the .zip file to the assignment dropbox.
+12. Ensure you’ve included everything properly. Failure to ensure that you’ve uploaded the file will result in your exercise being graded according the grading criteria.
+
+### <a name="level-2"></a>Level 2:
+
+1. Create an abstract self portrait using Principled BSDF shaders. See [Adobe Creative Types](https://mycreativetype.com/the-creative-types/) for inspiration.
+  - The object should have a studio lighting setup for even lighting.
+  - There should be a solid color in the background.
+  - You can download and use [texture packs](https://texturehaven.com/textures/).
+2. Unwrap the UVs for each object if you intend to use textures. Ensure that your materials are mapping with your object's UVs.
+3. Select render camera. In camera settings, adjust the camera's framing and focal length to create a good composition. Explore the camera presets. See video tutorial linked in resources.
+4. Check the "Lock camera to view" to frame composition with render camera.
+4. In Blender, **render** and image using Cycles renderer with the following settings:
+  - Image size: X=1920px, Y=1080px
+5. In the render window, Image --> Save As **_{{ page.submission-id }}_L2_**.png in the project folder.
+9. Save the blend file as **_{{ page.submission-id }}.blend_** in the project folder.
+10. Compress the project folder once you’ve completed the tutorial and rename it **_{{ page.submission-id }}.zip._**
+11. Upload the .zip file to the assignment dropbox.
 12. Ensure you’ve included everything properly. Failure to ensure that you’ve uploaded the file will result in your exercise being graded according the grading criteria.
 
 ### <a name="level-3"></a>Level 3:

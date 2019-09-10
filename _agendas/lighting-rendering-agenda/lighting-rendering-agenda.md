@@ -10,7 +10,7 @@ excerpt: Introduction to lighting and rendering
 ### Agenda
 
 1. **Video Screening**
-  - ["Goodbye Uncanny Valley"](https://vimeo.com/237568588) by Alan Warburton
+  - ["Spectacle, Speculation, Spam"](https://vimeo.com/194963450) by Alan Warburton
 2. Reading
   - [FX Guide: "Art of Rendering"](https://www.fxguide.com/featured/the-art-of-rendering/)
 2. **Terminology**
@@ -19,7 +19,7 @@ excerpt: Introduction to lighting and rendering
   - Fill
   - Rim, Backlight
   - Stage
-  - BSDF and PBR Materials
+  - IBL (with HDR images)
   - Edge bevels and highlights
   -  Area light, spot light, ambient light, directional light, point light (Also called lamps)
   -  Depth of Field
@@ -29,7 +29,7 @@ excerpt: Introduction to lighting and rendering
   -  Camera
   -  Safe area
 3. **Lighting and Rendering Demo**
-  - [PBR Materials](https://www.youtube.com/watch?v=FRNCp9GueUs) by Joe Foresman
+  - [PBR Materials with IBL](https://www.youtube.com/watch?v=FRNCp9GueUs) by Joe Foresman
 5. **Resources**
   - Blender Add-0n - [PBR Materials](https://www.3d-wolf.com/products/materials.html)
   - [HDR lighting packs](https://drive.google.com/drive/folders/1L6gc6B0RFNEZX780XSKj6GXMGo8vEkpY)

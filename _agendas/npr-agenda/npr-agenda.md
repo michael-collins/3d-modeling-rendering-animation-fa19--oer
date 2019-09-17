@@ -9,8 +9,9 @@ excerpt: Techniques for NPR rendering.
 ### Agenda
 
 1. **Video Screening**
-   - ["Spectacle, Speculation, Spam"](https://vimeo.com/194963450) by Alan Warburton
+   - [Spring - Blender Open Movie](https://www.youtube.com/watch?v=WhWc3b3KhnY)
 2. Examples
+   - [NPR Experiments](https://cgsociety.org/c/featured/yjge/npr-expreiments)
    - [Gifs](http://syntheticimagination.tumblr.com/post/181589274195/summer-daze-my-first-and-ironically-last-post)
    - [Avacado animation test](https://vimeo.com/78060303)
    - [Movie trailer](https://vimeo.com/ondemand/ziegenortbytomaszpopakul/179433781)

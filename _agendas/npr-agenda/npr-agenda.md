@@ -8,9 +8,9 @@ excerpt: Techniques for NPR rendering.
 
 ### Agenda
 
-1. **Video Screening**
-   - [Spring - Blender Open Movie](https://www.youtube.com/watch?v=WhWc3b3KhnY)
-2. Examples
+1. **Event**
+   - [Unreal Film Jam](https://www.unrealengine.com/en-US/events/unreal-film-jam)
+2. **Video Screenings and Examples**
    - [NPR Experiments](https://cgsociety.org/c/featured/yjge/npr-expreiments)
    - [Gifs](http://syntheticimagination.tumblr.com/post/181589274195/summer-daze-my-first-and-ironically-last-post)
    - [Avacado animation test](https://vimeo.com/78060303)
@@ -18,7 +18,7 @@ excerpt: Techniques for NPR rendering.
    - [For the remainder](https://vimeo.com/36818561)
 2. **Terminology**
    - NPR
-   - Cycles Freestyle
+   - Freestyle
    - Surface shader
    - Blender Materials
    - Nodes mode: Compositing (RenderLayers) 
@@ -27,11 +27,9 @@ excerpt: Techniques for NPR rendering.
       - Diffuse BSDF
       - geometry node
       - ColorRamp node
-      - normal node
+      - Fresnel node
       - MixRGB node
-      - MixShader node
-      - VectorMath node
-      - Mix
+      - ShaderToRGB node
       - fresnel
    - Ramp
    - Emission

@@ -96,27 +96,27 @@
     - concepts:
       due-date: 2:30pm on September 26, 2019
       due-date-iso: '2019-09-26T11:15:00'
-      dropbox-url: https://psu.instructure.com/courses/1995936/assignments/10689418
+      dropbox-url: https://psu.instructure.com/courses/1995936/assignments/11180361
       title: Project 1 Concepts
     - wireframes:
       due-date: 2:30pm on October 10, 2019
-      due-date-iso: '2019-09-26T2:30:00'
+      due-date-iso: '2019-10-10T2:30:00'
       title: Project 1 Wireframes
-      dropbox-url: https://psu.instructure.com/courses/1995936/assignments/10689463
+      dropbox-url: https://psu.instructure.com/courses/1995936/assignments/11180366
     - final-statement:
       due-date: 2:30pm on October 17, 2019
       due-date-iso: '2019-10-17T2:30:00'
       title: Project 1 Final Statement
-      dropbox-url: https://psu.instructure.com/courses/1965644/assignments/10689467
+      dropbox-url: https://psu.instructure.com/courses/1995936/assignments/11180367
     - final-submission:
       due-date: 2:30pm on October 17, 2019
       due-date-iso: '2019-10-17T2:30:00'
-      dropbox-url: https://psu.instructure.com/courses/1965644/assignments/10689468
+      dropbox-url: https://psu.instructure.com/courses/1995936/assignments/11180364
       title: Project 1 Final Submission
     - post-crit-revision:
       due-date: 2:30pm on October 22, 2019
       due-date-iso: '2019-10-22T2:30:00'
-      dropbox-url: https://psu.instructure.com/courses/1965644/assignments/10689470 
+      dropbox-url: https://psu.instructure.com/courses/1995936/assignments/11180365
       title: Project 1 Optional Post Critique Revision
   
 - title: Project 2

@@ -1,16 +1,15 @@
 ---
 title: Project 1
-subtitle: Aesthetic Fictions
+subtitle: Speculative Materiality and Structures
 layout: project
 banner-img: /assets/exercise-images/render-01.jpg
 ---
->"a shift from designing for how the world is ... to designing for how the world could be"
->
-> —Dunne and Raby, "Speculative Everything"
 
-For this project, you will model, texture, light, and render a set of **three related images** and critically reflect on your work in a 150 word **work statement**. These images do not have to be of the same object(s), but they must have some common conceptual thread that ties them together as a body of work. You will _develop a concept_ by first considering a **subject** like an environment, structure, object, or experience that you find interesting or problematic. Experiment with unexpected materials, proportions, scales, alerations, and additions or subtractions. Aesthetics are not only concerned with the way that things look, but also the underlying principles used to establish meaning, emotion, and senstation.
+In this project, you will explore ther materiality of the physical and digital world. To do this, you will have to examine the role of materials and structures in the built and designed environment, and how their nature might be altered and recontextualized to highlight, elevate, or interrogate their existence. These 3D works should seek to ask at least one question about the way people have organized the world around them.
 
-A successful project will demonstrate understanding and mastery of 3D tools and processes, the application of [formal design principles](http://www.getty.edu/education/teachers/building_lessons/principles_design.pdf), competent rendering technique, good [composition](https://www.lynda.com/Photoshop-Elements-tutorials/essentials-composition/633865/676339-4.html?org=psu.edu)practices, and will require the you lead to discussion about the kind of reality needed to make these objects possible and the importance of pursuing or not pursuing such realities.
+You will model, texture, light, and render a set of **three related images** and critically reflect on your work in a 150 word **work statement**. These images do not have to be of the same object(s), but they must have some common conceptual thread that ties them together as a body of work. You will _develop a concept_ by first considering a **subject** like an environment, structure, object, or experience that you find interesting or problematic. Experiment with unexpected materials, proportions, scales, alerations, and additions or subtractions. Since aesthetics are not only concerned with the way that things look, but also the underlying principles used to establish meaning, emotion, and senstation, try to think about the external forces at play shaping the objects of your interest.
+
+A successful project will demonstrate understanding and mastery of 3D tools and processes, the application of [formal design principles](http://www.getty.edu/education/teachers/building_lessons/principles_design.pdf), competent rendering technique, good composition practices, and will require the you lead a presentation and discussion about your work.
 
 ## Production Methods
 You will go through a variety of different project phases including:
@@ -34,6 +33,13 @@ You will go through a variety of different project phases including:
 - [Material Ecology](http://www.materialecology.com/projects.html)
 - [MAK Design Salon 4: Meinong’s Taxonomy of Objects, Dunne and Raby](https://vimeo.com/133160620)
 - [The Institute for New Feeling](http://www.maakemagazine.com/nina-sarnelle)
+- [drfranken](https://www.behance.net/drfranken)
+- [Material Immaterial](https://www.behance.net/materialimmaterial/)
+- [Yi Design](https://www.behance.net/YiDesign)
+- [Gianmaria Della Ratta](https://www.behance.net/gianmariadr)
+- [Nemanja Pesic](https://www.behance.net/nemanjapesic)
+- [Jonathan Quintin](https://www.behance.net/JonathanQuintin)
+- [Sim Stim](https://www.zeitguised.com/sim-stim)
 
 ## Constraints
 - Use 3D tools to produce images
@@ -54,7 +60,7 @@ All deliverables will be uploaded to the linked dropboxes.
   - Attempt to meet the [CheckMate 3D Modeling Pro Standard](https://www.turbosquid.com/CheckMate)
 6. **Final renders**
   - Upload a renders according to this convention: **_render-[#].png_** (I.E. - render-1.png) to the **_Project 1 Renders_** submission dropbox.
-  - Minimum Image Size: 1920x1080
+  - Image Size: 2000x2000 square
 7. **Work statement**
   - Upload **_statement-final.doc_** to the **_Project 1 Statement_** submission dropbox.
 8. **OPTIONAL: Post critique work updates)**

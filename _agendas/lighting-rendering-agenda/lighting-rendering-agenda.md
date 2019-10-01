@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Lighting and Rendering
+title: Camera, Lighting, and Rendering
 categories: agenda
 comments: false
 published: true
@@ -21,13 +21,16 @@ excerpt: Introduction to lighting and rendering
   - Stage
   - IBL (with HDR images)
   - Edge bevels and highlights
-  -  Area light, spot light, ambient light, directional light, point light (Also called lamps)
-  -  Depth of Field
-  -  Shadows
-  -  Falloff
-  -  Node editor
-  -  Camera
-  -  Safe area
+  - Area light, spot light, ambient light, directional light, point light (Also called lamps)
+  - Depth of Field
+  - Shadows
+  - Falloff
+  - Node editor
+  - Camera
+  - Safe area
+  - [Samples](https://docs.blender.org/manual/en/latest/render/cycles/render_settings/sampling.html)
+  - [Cycles Samples](https://www.youtube.com/watch?v=MoOOlf-yeSg)
+  - [EEVEE Lighting](https://www.youtube.com/watch?v=MFNurQ1AF2I)
 3. **Lighting and Rendering Demo**
   - [PBR Materials with IBL](https://www.youtube.com/watch?v=FRNCp9GueUs) by Joe Foresman
 5. **Resources**

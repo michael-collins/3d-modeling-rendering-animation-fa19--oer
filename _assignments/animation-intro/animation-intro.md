@@ -17,6 +17,7 @@ In this exercise, level 1 students will practice keyframing, parenting, animatin
 - [Parenting](https://en.wikibooks.org/wiki/Blender_3D:_Noob_to_Pro/Parenting)
 - [Youtube: Parenting in Blender 2.8](https://www.youtube.com/watch?v=kd1O0oqQ3Uw)
 - [Set Pivot Point](https://www.versluis.com/2016/05/how-to-set-the-origin-pivot-point-in-blender/)
+- [Camera aim constraint](https://www.youtube.com/watch?v=ktqeSrj4e8Q)
 
 ## Steps to Completion
 
@@ -36,7 +37,7 @@ Choose a either level 1, level 2, or level 3 to complete based on your prior exp
    - Your sphere should now loop seamlessly with linear motion. Press play in the timeline to see if it is looping seamlessly. The sphere should not be stopping at any point.
    - Animate the cube to move from 0 to positive 10 units in the z-axis from frame 1 to 60, and move back to the origin from frame 61 to 120. (The sphere will follow the cube as it moves up and down if it parented correctly)
    - Create a new perspective camera.
-   - Create an 'empty' and use it at as an [aim target for the camera](https://www.youtube.com/watch?v=DLAlgXRYn_4).
+   - Create an 'empty' and use it at as a [camera aim constraint](https://www.youtube.com/watch?v=ktqeSrj4e8Q).
    - Parent the 'empty' to the cube so the camera aims at the cube as it moves up and down.
    - Select the camera and choose **View** ⟶ **Camera** ⟶ **Set active object as camera** and choose "Lock Camera to viewport .
 3. Save as **_{{ page.submission-id }}-L1.blend_** and upload to the submission dropbox.

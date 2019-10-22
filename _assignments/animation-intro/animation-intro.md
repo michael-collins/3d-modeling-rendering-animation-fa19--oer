@@ -12,9 +12,10 @@ In this exercise, level 1 students will practice keyframing, parenting, animatin
 ## Learning Resources
 
 - [12 Principles of Animation](https://www.lynda.com/3ds-Max-tutorials/12-Principles-Animation-CG-Animators/474685-2.html?org=psu.edu)
-- Blender Essential Training: [Chapter 10: Basic Animation](https://www.lynda.com/Blender-tutorials/Understanding-Timeline/87088/95428-4.html?org=psu.edu)  
+- Blender Foundatiomn Training: [Videos 38-41](https://www.youtube.com/watch?v=SZJswvw9wEs&list=PLa1F2ddGya_-UvuAqHAksYnB0qL9yWDO6&index=39&t=0s)  
 - [Create camera targets](https://www.youtube.com/watch?v=DLAlgXRYn_4)
 - [Parenting](https://en.wikibooks.org/wiki/Blender_3D:_Noob_to_Pro/Parenting)
+- [Youtube: Parenting in Blender 2.8](https://www.youtube.com/watch?v=kd1O0oqQ3Uw)
 - [Set Pivot Point](https://www.versluis.com/2016/05/how-to-set-the-origin-pivot-point-in-blender/)
 
 ## Steps to Completion
@@ -29,7 +30,7 @@ Choose a either level 1, level 2, or level 3 to complete based on your prior exp
 2. Create an animation in Blender with the following:
    - The duration of the animation should be 120 frames.
    - Create a centered cube. 
-   - Create a sphere [parented](https://en.wikibooks.org/wiki/Blender_3D:_Noob_to_Pro/Parenting) to the cube. The sphere should be 5 units away from the cube in the X or Y axis, and revolve concentrically around the cube. (HINT: Their [pivot points](https://www.versluis.com/2016/05/how-to-set-the-origin-pivot-point-in-blender/) should be the same location: 0,0,0)
+   - Create a sphere [parented](https://www.youtube.com/watch?v=kd1O0oqQ3Uw) to the cube. The sphere should be 5 units away from the cube in the X or Y axis, and revolve concentrically around the cube. (HINT: Their [pivot points](https://www.versluis.com/2016/05/how-to-set-the-origin-pivot-point-in-blender/) should be the same location: 0,0,0)
    - Animate the sphere to rotate concentrically around the cube, twice(720 degrees).
    - Go into the Graph Editor and set **interpolation mode** to **linear**.
    - Your sphere should now loop seamlessly with linear motion. Press play in the timeline to see if it is looping seamlessly. The sphere should not be stopping at any point.

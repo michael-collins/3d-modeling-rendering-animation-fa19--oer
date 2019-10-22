@@ -12,7 +12,7 @@ In this exercise, you will continue 3D modeling and begin texturing. There are d
 
 ## Learning Resources
 
----
+***
 
 **Level 1: Novice Students**
 
@@ -23,7 +23,7 @@ In this exercise, you will continue 3D modeling and begin texturing. There are d
   - Airline Chair: [Download]({{ site.baseurl }}{{page.project-file}})
   - Modeling reference: [Speed modeling a chair](https://www.youtube.com/watch?v=xvpcchM9AfA)
 
----
+***
 
 **Level 2: Intermediate Students**
 
@@ -33,16 +33,16 @@ In this exercise, you will continue 3D modeling and begin texturing. There are d
 - Jayanam - [Blender 2.8 PBR Texturing for Beginners](https://www.youtube.com/watch?v=XI-pZshRp8g)
 - [How To Setup PBR and Displacement in EEVEE AND Cycles Blender 2.8](https://www.youtube.com/watch?v=UkU0-QeWUcU)
 
----
+***
 
 **Level 3: Experienced Students**
 
-  - Flipped Normals - [Introduction to Sculpting in Blender 2.8 - Sculpting Essentials](https://www.youtube.com/watch?v=A-Wq8K8icpQ&list=PLBX-X8mPyxIqV8Uto03OdvfnGUHCu9Hxz&index=2)
-  - [Blender 2.8 - How to bake textures - Tutorial](https://www.youtube.com/watch?v=2ClzsuExtCo)
-  - [Retopology for Beginners in Blender 2.8 - Retopo the Correct Way](https://www.youtube.com/watch?v=CuQzPDs99yM&list=PLBX-X8mPyxIqV8Uto03OdvfnGUHCu9Hxz&index=1)
-  - [How To Setup PBR and Displacement in EEVEE AND Cycles Blender 2.8](https://www.youtube.com/watch?v=UkU0-QeWUcU)
+- Flipped Normals - [Introduction to Sculpting in Blender 2.8 - Sculpting Essentials](https://www.youtube.com/watch?v=A-Wq8K8icpQ&list=PLBX-X8mPyxIqV8Uto03OdvfnGUHCu9Hxz&index=2)
+- [Blender 2.8 - How to bake textures - Tutorial](https://www.youtube.com/watch?v=2ClzsuExtCo)
+- [Retopology for Beginners in Blender 2.8 - Retopo the Correct Way](https://www.youtube.com/watch?v=CuQzPDs99yM&list=PLBX-X8mPyxIqV8Uto03OdvfnGUHCu9Hxz&index=1)
+- [How To Setup PBR and Displacement in EEVEE AND Cycles Blender 2.8](https://www.youtube.com/watch?v=UkU0-QeWUcU)
 
----
+***
 
 ## Steps to Completion
 

@@ -43,13 +43,11 @@
 - title: Exercise 5
   id: animation-intro
   type: exercise
-  # posted-date: 11:15pm on 3/19/2019
-  posted-date-iso: '2019-03-19T11:15:00'  
-  # due-date: 11:15pm on 3/26/2019
-  due-date-iso: '2019-03-26T11:15:00'
+  posted-date-iso: '2019-10-22T2:30:00'  
+  due-date-iso: '2019-10-29T2:30:00'
   dropbox-url: https://psu.instructure.com/courses/1995936/assignments/11180356
   doc: /assignments/animation-intro.html
-  published: false
+  published: true
 
 - title: Exercise 6
   id: rigging
@@ -122,39 +120,39 @@
 - title: Project 2
   id: animation-project
   type: project
-  # posted-date: 11:15am on 03/21/2019
-  posted-date-iso: '2019-03-21T11:15:00'
-  dropbox-url: https://psu.instructure.com/courses/1933733/assignments/10335159
+  posted-date-iso: '2019-10-22T2:30:00'
+  dropbox-url: https://psu.instructure.com/courses/
   doc: /assignments/animation-project.html
-  published: false
+  published: true
   milestones:
     - concepts:
-      due-date: 11:15am on April 2, 2019
+      due-date: 2:30pm on October 29, 2019
       due-date-iso: '2019-04-02T11:15:00'
-      dropbox-url: https://psu.instructure.com/courses/1965644/assignments/10689265
+      dropbox-url: https://psu.instructure.com/courses/1995936/assignments/11180369
       title: Project 2 Concepts
     - animatic:
-      due-date: 11:15am on April 16, 2019
-      due-date-iso: '2019-04-11T11:15:00'
+      ## teach animatics on Nov 14th, 1 week prior
+      due-date: 2:30pm on November 21, 2019
+      due-date-iso: '2019-11-21T2:30:00'
       title: Project 2 Animatic
-      dropbox-url: https://psu.instructure.com/courses/1965644/assignments/10689267
+      dropbox-url: https://psu.instructure.com/courses/1995936/assignments/11180368
     - test-renders:
-      due-date: 11:15am on April 18, 2019
-      due-date-iso: '2019-04-18T11:15:00'
+      due-date: 2:30pm on December 5, 2019
+      due-date-iso: '2019-12-05T2:30:00'
       title: Project 2 Test Renders
-      dropbox-url: https://psu.instructure.com/courses/1965644/assignments/10689269
-    # - statement:
-    #   due-date: 11:15am on April 25, 2019
-    #   due-date-iso: '2019-04-25T11:15:00'
-    #   dropbox-url: https://psu.instructure.com/courses/1965644/assignments/10689266
-    #   title: Project 2 Final Submission
+      dropbox-url: https://psu.instructure.com/courses/1995936/assignments/11180372
+    - statement:
+      due-date: 2:30pm on December 12, 2019
+      due-date-iso: '2019-12-12T2:30:00'
+      dropbox-url: https://psu.instructure.com/courses/1995936/assignments/11280682
+      title: Project 2 Statement
     - final-submission:
-      due-date: 11:15am on April 25, 2019
-      due-date-iso: '2019-04-25T11:15:00'
-      dropbox-url: https://psu.instructure.com/courses/1965644/assignments/10689266
+      due-date: 2:30pm on December 12, 2019
+      due-date-iso: '2019-12-12T2:30:00'
+      dropbox-url: https://psu.instructure.com/courses/1995936/assignments/11180370
       title: Project 2 Final Submission
-    - revision:
-      due-date: 11:15am on April 29, 2019
-      due-date-iso: '2019-04-29T11:15:00'
-      dropbox-url: https://psu.instructure.com/courses/1965644/assignments/10689268
-      title: Project 2 Optional Post Critique Revision
+    # - revision:
+    #   due-date: 11:15am on April 29, 2019
+    #   due-date-iso: '2019-12-29T11:15:00'
+    #   dropbox-url: https://psu.instructure.com/courses/1995936/assignments/11180371
+    #   title: Project 2 Optional Post Critique Revision

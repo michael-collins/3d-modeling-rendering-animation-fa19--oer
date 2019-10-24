@@ -17,7 +17,7 @@ excerpt: Introduction to animation in Blender.
   - [Animation Mentor](https://www.youtube.com/watch?v=CtRBOI0PVgI)
   - [Karl Sims - Evolved Virtual Creatures, Evolution Simulation, 1994](https://www.youtube.com/watch?v=JBgG_VSP7f8)
   - [Berlin Tetris](https://vimeo.com/6736261)
-  - [NYT - Circle squared](https://vimeo.com/17090753)
+  - [Spring](https://cloud.blender.org/p/spring/)
 3. **Terminology**
   - [3D Animation Pipeline](https://animeight.com/2018/02/21/3d-production-pipeline/)
   - 12 Principles of animation

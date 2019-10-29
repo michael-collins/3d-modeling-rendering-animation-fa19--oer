@@ -37,11 +37,12 @@ In this exercise, you will practice creating a rig for a polygon mesh. You will 
 
 **Level 3: Experienced Students**
 
-* [Blender 2.8 - Rigging For Animation 6 | Introduction To IK Part 1](https://www.youtube.com/watch?v=LYqsEEgan7s)
-* [Blender 2.8 - Rigging For Animation 11 | How To Rig A Piston Part 1](https://www.youtube.com/watch?v=QEUVgS3Ag-g)
-* [Blender 2.8 - Rigging For Animation 11 | How To Rig A Piston Part 2](https://www.youtube.com/watch?v=F6eBF76heYg)
+* [Blender 2.8 - Rigging For Animation 6 \| Introduction To IK Part 1](https://www.youtube.com/watch?v=LYqsEEgan7s)
+* [Blender 2.8 - Rigging For Animation 11 \| How To Rig A Piston Part 1](https://www.youtube.com/watch?v=QEUVgS3Ag-g)
+* [Blender 2.8 - Rigging For Animation 11 \| How To Rig A Piston Part 2](https://www.youtube.com/watch?v=F6eBF76heYg)
 
 ***
+
 ## Steps to Completion
 
 Choose a either level 1, level 2, or level 3 to complete based on your prior experience with 3D tools. If you are a novice, choose Level 1. If you have some experience, choose Level 2. If you are very experienced with 3D tools, choose Level 3.
@@ -58,7 +59,7 @@ Choose a either level 1, level 2, or level 3 to complete based on your prior exp
 6. Object → **Apply** all transforms including scale, rotation, and location.
 7. Create joints for the torso, hips, knees, legs, feet, shoulders, arms, neck, and head. Name and number them for your reference. You must put a ".L" or ".R" at the end of your bones for them to symmetrize properly.
 8. Attach the armature to the polygonal mesh. Do this by selecting the mesh first, select the armature, and then press 'CTRL-P,' and choose "with automatic weights." If you do not see this option, you have selected in the reverse order.
-9. Adjustm the influence weight where needed to create a posable character.
+9. Adjust the influence weight where needed to create a posable character.
 10. Pose the biped to be in a sitting pose. (You can add a chair if you like)
 11. Do not model the character into a sitting pose, it must be modeled in a T pose, and posed in a seated position via the rig.
 12. Save as **_{{ page.submission-id }}.blend_** and upload to the submission dropbox.

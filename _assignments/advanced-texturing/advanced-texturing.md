@@ -66,13 +66,13 @@ Choose a either level 1, level 2, or level 3 to complete based on your prior exp
 2. Unwrap the UVs for each object if you intend to use textures. Ensure that your materials are mapping with your object's UVs.
 3. Select render camera. In camera settings, adjust the camera's framing and focal length to create a good composition. Explore the camera presets. See video tutorial linked in resources.
 4. Check the "Lock camera to view" to frame composition with render camera.
-4. In Blender, **render** and image using Cycles renderer with the following settings:
+5. In Blender, **render** and image using Cycles renderer with the following settings:
   - Image size: X=1920px, Y=1080px
-5. In the render window, Image --> Save As **_{{ page.submission-id }}_**.png in the project folder.
-9. Save the blend file as **_{{ page.submission-id }}.blend_** in the project folder.
-10. Compress the project folder once you’ve completed the tutorial and rename it **_{{ page.submission-id }}.zip._**
-11. Upload the .zip file to the assignment dropbox.
-12. Ensure you’ve included everything properly. Failure to ensure that you’ve uploaded the file will result in your exercise being graded according the grading criteria.
+6. In the render window, Image --> Save As **_{{ page.submission-id }}_**.png in the project folder.
+7. Save the blend file as **_{{ page.submission-id }}.blend_** in the project folder.
+8. Compress the project folder once you’ve completed the tutorial and rename it **_{{ page.submission-id }}.zip._**
+9. Upload the .zip file to the assignment dropbox.
+10. Ensure you’ve included everything properly. Failure to ensure that you’ve uploaded the file will result in your exercise being graded according the grading criteria.
 
 ### <a name="level-2"></a>Level 2:
 
@@ -83,25 +83,26 @@ Choose a either level 1, level 2, or level 3 to complete based on your prior exp
 2. Unwrap the UVs for each object if you intend to use textures. Ensure that your materials are mapping with your object's UVs.
 3. Select render camera. In camera settings, adjust the camera's framing and focal length to create a good composition. Explore the camera presets. See video tutorial linked in resources.
 4. Check the "Lock camera to view" to frame composition with render camera.
-4. In Blender, **render** and image using Cycles renderer with the following settings:
+5. In Blender, **render** and image using Cycles renderer with the following settings:
   - Image size: X=1920px, Y=1080px
-5. In the render window, Image --> Save As **_{{ page.submission-id }}_L2_**.png in the project folder.
-9. Save the blend file as **_{{ page.submission-id }}.blend_** in the project folder.
-10. Compress the project folder once you’ve completed the tutorial and rename it **_{{ page.submission-id }}.zip._**
-11. Upload the .zip file to the assignment dropbox.
-12. Ensure you’ve included everything properly. Failure to ensure that you’ve uploaded the file will result in your exercise being graded according the grading criteria.
+6. In the render window, Image --> Save As **_{{ page.submission-id }}_L2_**.png in the project folder.
+7. Save the blend file as **_{{ page.submission-id }}.blend_** in the project folder.
+9. Compress the project folder once you’ve completed the tutorial and rename it **_{{ page.submission-id }}.zip._**
+10. Upload the .zip file to the assignment dropbox.
+11. Ensure you’ve included everything properly. Failure to ensure that you’ve uploaded the file will result in your exercise being graded according the grading criteria.
 
 ### <a name="level-3"></a>Level 3:
 
-1. Your model should be a low to medium resolution mesh with a detailed normal map applied. There should also be a finished diffuse texture map.
-2. Add an emissive texture to create glowing spots on the creature.
-7. Save your **emissive** map in the project folder as **_emissive-{{ page.submission-id }}.png_**.
-2. Use an HDR environment map and PBR workflow to light and render your creature.
-4. Save the render as **_render-{{ page.submission-id }}.png_**..
-6. Save your file as **_{{ page.submission-id }}-L3_.blend**
-7. Compress the project folder once you’ve completed the tutorial and rename it **_{{ page.submission-id }}-L3.zip._**
-8. Upload the .zip file to the assignment dropbox.
-9. Ensure you’ve included everything properly. Failure to ensure that you’ve uploaded the file will result in your exercise being graded according the grading criteria.
+1. Continue your work from the previous exercises.
+2. Your model should be a low to medium resolution mesh with a detailed normal map applied. There should also be a finished diffuse texture map.
+3. Add an emissive texture to create glowing spots on the creature.
+4. Save your **emissive** map in the project folder as **_emissive-{{ page.submission-id }}.png_**.
+5. Use an HDR environment map and PBR workflow to light and render your creature.
+6. Save the render as **_render-{{ page.submission-id }}.png_**..
+7. Save your file as **_{{ page.submission-id }}-L3_.blend**
+8. Compress the project folder once you’ve completed the tutorial and rename it **_{{ page.submission-id }}-L3.zip._**
+9. Upload the .zip file to the assignment dropbox.
+10. Ensure you’ve included everything properly. Failure to ensure that you’ve uploaded the file will result in your exercise being graded according the grading criteria.
 
 **Example _Level 3_ folder structure**
 

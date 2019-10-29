@@ -19,10 +19,11 @@ excerpt:
   - [Medical Muscle rigging](https://www.youtube.com/watch?v=VqC52ZxYDi4)
 2. **Terminology**
   - Armature
-  - [IK/FK](https://www.youtube.com/watch?v=DZ_ocmY8xEI)
-  - [Drivers](https://www.youtube.com/watch?v=BJJJpWcxp0o)
+  - [IK/FK](https://www.youtube.com/watch?v=1-5ZR45y9RM)
+  - [Drivers](https://www.youtube.com/watch?v=57VGk_7I69M)
   - [Pole vector](https://lesterbanks.com/2013/11/blender-creating-ik-pole-vectors-without-breaking-the-bind-pose/) (For orienting joints when using IK)
   - [Painting Weights](https://www.youtube.com/watch?v=Tl4qTgwQwYw)
+  - [Shape Keys](https://www.youtube.com/watch?v=OITWiN8Dplo)
   - [Freeze Transforms](https://www.youtube.com/watch?v=VL03dwlI10U)
 3. Resources
   - [Understanding IK anf FK](https://www.youtube.com/watch?v=6gmKakLsiec)

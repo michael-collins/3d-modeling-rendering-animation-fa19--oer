@@ -56,7 +56,7 @@ Choose a either level 1, level 2, or level 3 to complete based on your prior exp
 4. Scale up the model.
 5. Add subdivisions (edge loops) to the polygonal mesh to minimize unwanted distortion when posing the mesh. Add geometry to articulate the head, torso, legs, and arms.
 6. Object → **Apply** all transforms including scale, rotation, and location.
-7. Create joints for the torso, hips, knees, legs, feet, shoulders, arms, neck, and head. Name and number them for your reference.
+7. Create joints for the torso, hips, knees, legs, feet, shoulders, arms, neck, and head. Name and number them for your reference. You must put a ".L" or ".R" at the end of your bones for them to symmetrize properly.
 8. Attach the armature to the polygonal mesh. Do this by selecting the mesh first, select the armature, and then press 'CTRL-P,' and choose "with automatic weights." If you do not see this option, you have selected in the reverse order.
 9. Adjustm the influence weight where needed to create a posable character.
 10. Pose the biped to be in a sitting pose. (You can add a chair if you like)

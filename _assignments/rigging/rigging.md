@@ -18,7 +18,7 @@ In this exercise, you will practice creating a rig for a polygon mesh. You will 
 
 **Level 1: Novice Students**
 
-* Lynda.com: [Character Rigging](https://www.lynda.com/Blender-tutorials/Rigging-Humanoid-Character-Blender/365285-2.html?org=psu.edu)
+* Lynda.com: [Character Rigging](https://www.linkedin.com/learning/rigging-a-humanoid-character-with-blender/creating-the-root-and-spine-bones)
 * [Weight Painting](https://www.youtube.com/watch?v=Tl4qTgwQwYw)
 * [Rigging People](https://www.youtube.com/watch?v=cp1YRaTZBfw)
 * [Rigging a character in blender 2.80](https://www.youtube.com/watch?v=gMnH9vvMLYg)

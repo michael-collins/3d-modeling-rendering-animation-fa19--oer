@@ -12,7 +12,7 @@ In this exercise, you will apply an image sequence as texture object in Blender,
 
 ## Learning Resources
 
-Example animated texture project download (Large ~200MB file): [face-texture-anim.zip]({{ page.download-path }}/face-texture-anim.zip)
+Example animated texture project download (Large ~200MB file): [face-texture-anim.zip](https://drive.google.com/open?id=10RnUpvyXGJWKltiRsUtpNE67k3tiGjhB)
 
 ### Tutorials:
 

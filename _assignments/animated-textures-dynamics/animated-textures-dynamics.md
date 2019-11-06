@@ -39,7 +39,7 @@ Example animated texture project download (Large ~200MB file): [face-texture-ani
 ## Steps to Completion
 
 1. Watch the level tutorials. If you are confused, please see
-2. Create and set a project folder called **_{{ page.submission-id }}-L1_** save your .blend file in the project folder.
+2. Create and set a project folder called **_{{ page.submission-id }}_** save your .blend file in the project folder.
 4. Create an anmiation with the following:
   * EEVEE render engine (Cycles is fine, but takes too long to render for this exercise)
   * Rigid body (active) – Two or more objects

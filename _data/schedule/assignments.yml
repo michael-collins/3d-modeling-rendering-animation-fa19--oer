@@ -53,13 +53,13 @@
   published: true
 
 - title: Exercise 7
-  id: animated-textures
+  id: animated-textures-dynamics
   type: exercise
-  posted-date-iso: '2019-02-12T11:15:00'  
-  due-date-iso: '2019-02-19T11:15:00'
-  dropbox-url: 
-  doc: /assignments/animated-textures.html
-  published: false
+  posted-date-iso: '2019-11-05T14:30:00'  
+  due-date-iso: '2019-11-12T14:30:00'
+  dropbox-url: https://psu.instructure.com/courses/1995936/assignments/11303136
+  doc: /assignments/animated-textures-dynamics.html
+  published: true
 
 # - title: Exercise 8
 #   id: advanced-rigging

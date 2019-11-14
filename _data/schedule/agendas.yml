@@ -109,7 +109,7 @@
   published: true
 
 - title: Animatic Agenda
-  id: rigging-agenda
+  id: animatic-agenda
   type: agenda
   posted-date-iso: '2019-11-14T14:30:00'
   doc: /agendas/animatic-agenda.html

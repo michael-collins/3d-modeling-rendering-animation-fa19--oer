@@ -107,6 +107,13 @@
   posted-date-iso: '2019-10-29T2:30:00'
   doc: /agendas/rigging-agenda.html
   published: true
+
+- title: Animatic Agenda
+  id: rigging-agenda
+  type: agenda
+  posted-date-iso: '2019-11-14T14:30:00'
+  doc: /agendas/animatic-agenda.html
+  published: true
   
 - title: Texture Animation Agenda
   id: texture-animation-agenda

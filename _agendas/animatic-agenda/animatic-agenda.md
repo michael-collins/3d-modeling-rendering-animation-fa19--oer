@@ -1,19 +1,26 @@
 ---
 layout: post
-title: Animatic
+title: Editing Animatics – Camera shots and animating to sound
 categories: agenda
 comments: false
-published: false
+published: true
 excerpt:
 ---
 
 ### Agenda
 
-1. Documentation
-  - [Camera Sequencer](https://knowledge.autodesk.com/support/maya/learn-explore/caas/CloudHelp/cloudhelp/2015/ENU/Maya/files/GUID-756DCF5D-C74C-46E4-BE11-50E5C7FA3376-htm.html)
-  - [Importing Audio to Maya](https://knowledge.autodesk.com/support/maya/learn-explore/caas/CloudHelp/cloudhelp/2016/ENU/Maya/files/GUID-68DA6B38-1CBE-41E7-8D7F-908EB5859EFA-htm.html)
+1. Tutorials
+  - [Blender 2.8 Tutorial: Viewport Render Animation \( make preview \)](https://www.youtube.com/watch?v=QuVZGDbly3g)
+  - If you need to do precise animation timing: [Import audio into Blender](https://www.youtube.com/watch?v=9w-6Lk1OJbg)
+  - [Cutting Between Multiple Cameras - Blender Tutorial](https://www.youtube.com/watch?v=93bBtxuf9Dg)
 2. **Terminology**
-  - Camera Sequencer
-  - Layout
-  - Shot
-  - Resolution Gate
+  - Add Camera
+  - Blender Editor: Timeline
+  - Blender Editor: Video sequencer
+    - Add --> Sound
+  - Blender Editor: Graph Editor
+  - Editor Menu Item: Marker
+    - Add Marker
+    - Bind Camera to Marker (binds the selected camera to the marker position)
+  - Sequence render animation
+3. Demo

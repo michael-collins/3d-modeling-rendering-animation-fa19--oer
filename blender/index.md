@@ -35,6 +35,10 @@ Very general introduction videos to learn Blender basics.
 
 ## Add-ons, plugins, and textures
 
+### IOR Values
+
+- [List of IOR values for different physically accurate materials](https://pixelandpoly.com/ior.html) as described [here](https://www.youtube.com/watch?reload=9&v=cvu5XYrZT6Q).
+
 ### Textures and texture packs
 
 - [CC0 Textures](https://cc0textures.com/)
